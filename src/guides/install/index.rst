@@ -47,7 +47,7 @@ If you prefer to tinker with the methods or steps, or prefer your bioinformatics
 
 ----
 
-I'm running Nextstrain, how to I remember which installation method I used?
+I'm running Nextstrain, how do I remember which installation method I used?
 ===========================================================================
 
 * If you interact with things by running the ``nextstrain`` program, then you have a container-based installation.
